@@ -1,0 +1,54 @@
+UserID: -1002328886935 | Time: 2024-10-02 15:34:19.033534 | Command: /bgmi | Target: 20.204.159.247 | Port: 29467 | Time: 180
+Username: @freeddos_group12
+Target: 20.204.159.247
+Port: 29467
+Time: 180
+
+UserID: 1866961136 | Time: 2024-10-02 15:41:11.880341 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
+UserID: 1866961136 | Time: 2024-10-02 16:11:52.710704 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
+UserID: 1866961136 | Time: 2024-10-02 16:51:48.174299 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
+UserID: 1866961136 | Time: 2024-10-02 17:06:05.894173 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
+UserID: 1866961136 | Time: 2024-10-02 18:01:46.230562 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
+UserID: 1866961136 | Time: 2024-10-02 18:15:00.917006 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
+UserID: 1866961136 | Time: 2024-10-02 18:18:28.869774 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
+UserID: 1866961136 | Time: 2024-10-02 21:42:05.444950 | Command: /bgmi | Target: 20.204.176.194 | Port: 22861 | Time: 200
+Username: @Rohan2349
+Target: 20.204.176.194
+Port: 22861
+Time: 200
+
